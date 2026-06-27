@@ -17,4 +17,4 @@
 <p align="center"> 
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=miziv&color=000000&style=Zen+Old+Mincho&duration=flat&label=clematis"/>
+ <img src="https://komarev.com/ghpvc/?username=miziv&color=000000&style=Zen+Old+Mincho&duration=flat&label=.클레마티스"/>
